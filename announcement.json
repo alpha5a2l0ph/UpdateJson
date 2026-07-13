@@ -4,7 +4,7 @@
   "updateUrl": "https://github.com/alpha5a2l0ph/Upload_Data",
   "versions": [
     {
-      "version": "1.2.3",
+      "version": "1.2.4",
       "date": "2026-07-13",
       "content": ["增加英语与中文之间的切换的支持，在设置中调节", "Add support for switching between English and Chinese, adjust in settings"]
     },
