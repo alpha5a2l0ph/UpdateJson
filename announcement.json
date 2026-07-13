@@ -4,6 +4,11 @@
   "updateUrl": "https://github.com/alpha5a2l0ph/YourRepo",
   "versions": [
     {
+      "version": "1.2.3",
+      "date": "2026-07-13",
+      "content": ["增加英语与中文之间的切换的支持，在设置中调节", "Add support for switching between English and Chinese, adjust in settings"]
+    },
+    {
       "version": "1.2.2",
       "date": "2026-07-13",
       "content": ["更改开机逻辑优化流程性"]
